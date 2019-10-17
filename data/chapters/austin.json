@@ -1,0 +1,33 @@
+{
+  "url": "https://www.austingivecamp.org/",
+  "title": "Austin GiveCamp",
+  "city": "Austin",
+  "state": "Texas",
+  "latitude": 30.265886,
+  "longitude": -97.749298,
+  "img": "austin.jpg",
+  "img_attribution": "iStock",
+  "events": [
+    {
+      "start_date": "2016-11-04",
+      "end_date": "2016-11-06",
+      "street": "10415 Morado Circle Bld 3 Ste 100",
+      "city": "Austin",
+      "state": "Texas",
+      "postal_code": 78759,
+      "volunteer_signup_url": "https://www.austingivecamp.org/volunteer-form",
+      "non_profit_signup_url": "https://www.austingivecamp.org/non-profit-form"
+    },
+    {
+      "start_date": "2019-03-29",
+      "end_date": "2019-03-31",
+      "street": "500 W 2nd St",
+      "city": "Austin",
+      "state": "Texas",
+      "postal_code": 78701,
+      "volunteer_signup_url": "https://www.austingivecamp.org/volunteer-form",
+      "non_profit_signup_url": "https://www.austingivecamp.org/non-profit-form"
+    }
+  ]
+}
+
