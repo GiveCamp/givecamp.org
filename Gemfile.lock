@@ -95,7 +95,7 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    redcarpet (3.5.0)
+    redcarpet (3.5.1)
     sassc (2.3.0)
       ffi (~> 1.9)
     sassc (2.3.0-x64-mingw32)
@@ -123,7 +123,7 @@ DEPENDENCIES
   middleman-blog
   middleman-favicon-maker (~> 4.1)
   nokogiri
-  redcarpet (~> 3.3, >= 3.3.3)
+  redcarpet (~> 3.5)
   tzinfo-data
   wdm (~> 0.1)
 
