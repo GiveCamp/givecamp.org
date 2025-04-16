@@ -1,11 +1,21 @@
 {
   "url": "http://newenglandgivecamp.org/",
   "title": "New England GiveCamp",
-  "city": "Watertown",
-  "state": "Massachusetts",
-  "latitude": 42.36548,
-  "longitude": -71.1865,
+  "city": "Hooksett",
+  "state": "New Hampshire",
+  "latitude": 43.039468,
+  "longitude": -71.4539791,
   "events": [
+    {
+      "start_date": "2024-05-17",
+      "end_date": "2024-05-19",
+      "street": "2521 North River Road",
+      "city": "Hooksett",
+      "state": "New Hampshire",
+      "postal_code": "03106",
+      "volunteer_signup_url": "https://www.eventbrite.com/e/new-england-givecamp-2024-snhu-tickets-865059364847",
+      "non_profit_signup_url": "https://newenglandgivecamp.org/"
+    },
     {
       "start_date": "2023-03-31",
       "end_date": "2023-04-02",

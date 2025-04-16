@@ -9,6 +9,26 @@
   "img_attribution": "Carlos Javier : https://www.flickr.com/photos/carlosphotographyart/23630605473",
   "events": [
     {
+      "start_date": "2025-07-18",
+      "end_date": "2025-07-20",
+      "street": "28500 Clemens Road",
+      "city": "Westlake",
+      "state": "Ohio",
+      "postal_code": "44145",
+      "volunteer_signup_url": "https://clevelandgivecamp.org/event/givecamp-2025/",
+      "non_profit_signup_url": "https://clevelandgivecamp.org/"
+    },
+    {
+      "start_date": "2024-07-26",
+      "end_date": "2024-07-28",
+      "street": "28500 Clemens Road",
+      "city": "Westlake",
+      "state": "Ohio",
+      "postal_code": "44145",
+      "volunteer_signup_url": null,
+      "non_profit_signup_url": null
+    },
+    {
       "start_date": "2023-07-21",
       "end_date": "2023-07-23",
       "street": "28500 Clemens Road",
